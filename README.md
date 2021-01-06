@@ -1,4 +1,4 @@
-# safety_app
+# Readl Fake App
 
 A new Flutter project.
 
